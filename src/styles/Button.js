@@ -14,6 +14,7 @@ export const Button = styled.button`
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
+   border-radius: 5px;
 
   &:hover,
   &:active {
